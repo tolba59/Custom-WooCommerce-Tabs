@@ -24,3 +24,8 @@ A simple plugin to edit the visibility and names of the default WooCommerce tabs
 
 ## Hooks & Filters
 
+
+
+## Changelog
+### 1.0
+* Initial Release
