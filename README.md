@@ -22,5 +22,5 @@ A simple plugin to edit the visibility and names of the default WooCommerce tabs
 **Note** The plugin doesn't have a settings page in the WordPress dashboard, you'll need to adjust it according to your needs by editing the `Custom-Woo-Tab-Titles.php` file, the current version was created for a fashion ecommerce website so it had tabs like *Material & Size Chart* and *Product Weight* , you can show/hide/edit name as needed.
 
 
-## Code Snippets for Edit
+## Hooks & Filters
 
