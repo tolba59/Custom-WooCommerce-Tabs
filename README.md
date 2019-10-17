@@ -1,7 +1,7 @@
 # Custom-WooCommerce-Tabs
 Plugin Name:  Custom Woo Tabs by eGuru<br>
 Version:      1.0<br>
-Plugin URI:	  https://eguru.website<br>
+Plugin URI:	  https://github.com/tolba59/Custom-WooCommerce-Tabs<br>
 Contributors: @tolba59<br>
 Description:	Editing visibility and names of WooCommerce tabs on Single Product page (WordPress)<br>
 Author:				Eslam Tolba - eGuru<br>
