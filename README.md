@@ -24,6 +24,45 @@ A simple plugin to edit the visibility and names of the default WooCommerce tabs
 
 ## Hooks & Filters
 
+#### Hide Product Description / Additional Information
+
+```
+add_filter( 'woocommerce_product_description_heading', '__return_false' );
+add_filter( 'woocommerce_product_additional_information_heading', '__return_false' );
+
+```
+
+#### Change the Description tab name
+
+```
+add_filter( 'woocommerce_product_description_tab_title', 'isa_wc_description_tab_link_text', 999, 2 );
+function isa_wc_description_tab_link_text( $text, $tab_key ) { 
+    return esc_html( 'Material & Size Chart' );
+ }
+ ```
+#### Change the "Additional Information" tab name
+
+```
+add_filter( 'woocommerce_product_additional_information_tab_title', 'isa_wc_additional_info_tab_link_text', 999, 2 );
+ 
+function isa_wc_additional_info_tab_link_text( $text, $tab_key ) {
+ 
+    return esc_html( 'Product Weight' );
+ 
+}
+```
+
+#### Change the "Reviews" tab name
+
+```
+add_filter( 'woocommerce_product_reviews_tab_title', 'isa_wc_reviews_tab_link_text', 999, 2 );
+ 
+function isa_wc_reviews_tab_link_text( $text, $tab_key ) {
+ 
+    return esc_html( 'What people are saying' );
+ 
+}
+```
 
 
 ## Changelog
