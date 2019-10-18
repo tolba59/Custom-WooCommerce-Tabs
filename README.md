@@ -4,6 +4,8 @@
 ![alt text](https://github.com/tolba59/Custom-WooCommerce-Tabs/blob/master/images/default.png "Default tabs")
 
 ### Custom WooCommerce Tabs with the plugin
+**Note** The plugin doesn't have a settings page in the WordPress dashboard, you'll need to adjust it according to your needs by editing the `Custom-Woo-Tab-Titles.php` file, the current version was created for a fashion ecommerce website so it had tabs like *Material & Size Chart* and *Product Weight* , you can show/hide/edit name as needed.
+
 ![alt text](https://github.com/tolba59/Custom-WooCommerce-Tabs/blob/master/images/with_plugin.png "Custom tabs")
 
 ## About
