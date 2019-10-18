@@ -1,4 +1,4 @@
-# Custom-WooCommerce-Tabs
+# Custom WooCommerce Tabs
 
 ### Default WooCommerce Tabs
 ![alt text](https://github.com/tolba59/Custom-WooCommerce-Tabs/blob/master/images/default.png "Default tabs")
