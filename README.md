@@ -1,4 +1,13 @@
 # Custom-WooCommerce-Tabs
+
+### Default WooCommerce Tabs
+![alt text](https://github.com/tolba59/Custom-WooCommerce-Tabs/blob/master/images/default.png "Default tabs")
+
+### Custom WooCommerce Tabs with the plugin
+![alt text](https://github.com/tolba59/Custom-WooCommerce-Tabs/blob/master/images/with_plugin.png "Custom tabs")
+
+## About
+
 * Plugin Name:  Custom Woo Tabs by eGuru
 * Version:      1.0
 * Plugin URI:	  https://github.com/tolba59/Custom-WooCommerce-Tabs
